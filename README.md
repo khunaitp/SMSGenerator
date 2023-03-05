@@ -1,2 +1,2 @@
 # SMSGenerator
-For academic
+
